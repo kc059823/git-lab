@@ -60,3 +60,23 @@ Date:   Thu Sep 5 15:27:22 2024 -0400
     Initial commit
 
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10:
+The changes made on github were not reflected in my local README.md file
+
+Answer 11:
+I get an error that says that git failed to push to the online repository. It gives a hint saying it is because the remote contains worl that I don't have locally
+
+Answer 12:
+The online changes are now reflected in my local copy
+
+Answer 13:
+.
+..
+.git
+.gitignore
+README.md
